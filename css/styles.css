@@ -552,6 +552,11 @@ img {
   margin-left: 16px;
 }
 
+.footer-form {
+  display: flex;
+  gap: 24px;
+}
+
 .backdrop {
   width: 100%;
   height: 100%;
@@ -673,6 +678,10 @@ img {
 
 .modal-field-textarea {
   margin-bottom: 16px;
+}
+
+.modal-fiel-checkbox {
+  margin-bottom: 24px;
 }
 
 .modal-label {
