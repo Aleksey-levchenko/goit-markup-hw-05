@@ -680,7 +680,7 @@ img {
   margin-bottom: 16px;
 }
 
-.modal-fiel-checkbox {
+.modal-field-checkbox {
   margin-bottom: 24px;
 }
 
@@ -749,7 +749,7 @@ img {
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   margin-right: 8px;
-  display: flex;
+
   align-items: center;
   justify-content: center;
   fill: transparent;
